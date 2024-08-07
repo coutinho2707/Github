@@ -1,5 +1,5 @@
-# head-spinning-HTML+CSS+GSAP
+# Github
 
 
 
-![](head-gif.gif)
+![](ai.gif)
